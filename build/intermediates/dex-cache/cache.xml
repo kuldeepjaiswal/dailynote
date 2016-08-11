@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_64b779495b9e0dc965170d3a01d1342c702a5620.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_f010d289da189e6bb11f661c9064ca533e433748.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0_21dccc60286ecc22770f1bc3bd715873270dc509.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_42cfd98aca69d1fee26e2028941087dcbda25ee6.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c23708cdb9e80a144db433e23344a788a1fd6599">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/opencsv-2.3_515214a2b6a4c9e94a43ac76ab2efc04cf8c2ceb.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_36c344ee5222fe7754e081542f71dd70aef73902.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_54b56099919b677edc8c1d5132c0d6eb1321e590.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_2f66d0e58901427967fd626364325ccda1946c26.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_f99055b88396e736516f5a50c277b48429117a41.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_af015a875a5105c4844b219469a88b04363cff7e.jar" />
+    </item>
+    <item
+        jar="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kuldeep/Documents/FrogoGithub/frogo/DailyNote/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_7401c7ef910da1c3b45b882cbeff0d500eedf301.jar" />
+    </item>
+
+</items>
